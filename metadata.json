@@ -1,0 +1,6 @@
+{
+  "name": "ChromaCalc",
+  "description": "The ultimate AI-powered calculator ecosystem featuring a tactile main workspace, interactive 2D function plotting, financial/engineering tools, deep reasoning Brain mode, Gemini vision lens, natural language math assistant, smart workspaces, templates, and Raycast-style command search.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
